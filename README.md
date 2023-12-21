@@ -14,3 +14,4 @@ Excited to unveil my latest project: a Power BI dashboard delving into the heart
 
 🚦 **Challenges and Opportunities:** Identifying areas for improvement, including reducing congestion rates and enhancing trip duration in specific locations.
 
+**Dashboard Link ** https://app.powerbi.com/view?r=eyJrIjoiZGI1NjRlNzMtMWUyZi00NmFiLTk3ODktNjMxMGE3NTE3ODI1IiwidCI6IjRhNDgzNzc3LTE1ODEtNGJiZS1iNmIzLTZjZjFjMDYyYTQ3ZSJ9
